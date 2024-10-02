@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ParaMeuCurriculo\\Codigo\\Codigo.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Luiz_Manha\\ParaMeuCurriculo\\Codigo\\Codigo.csproj",
       "projectName": "Codigo",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ParaMeuCurriculo\\Codigo\\Codigo.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Luiz_Manha\\ParaMeuCurriculo\\Codigo\\Codigo.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\LuizEduardo\\ParaMeuCurriculo\\Codigo\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Luiz_Manha\\ParaMeuCurriculo\\Codigo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
