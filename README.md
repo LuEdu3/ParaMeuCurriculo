@@ -17,15 +17,19 @@ Aluno: Luiz Eduardo Pereira
 ## Etapas implementadas
 
 * Pede ao usuário que insira a quantidade de contatos.
+
 ![alt text](1.PNG)
 
 * Usuário insere a quantidade de contatos que deseja e os nomes dos contatos ja tendo a opção de remover os contatos caso seja da vontade do usuário
+
 ![alt text](2.PNG)
 
 * Usuário inseri os nomes que deseja remover e os nomes são imprimidos na tela e salvos em um arquivo .txt
+
 ![alt text](3-1.PNG)
 
 * Caso não queira remover nenhum contato e imprmido a lista de contato e salva no arquivo .txt 
+
 ![alt text](4.PNG)
 
 ## Backlog
